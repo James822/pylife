@@ -6,6 +6,6 @@ conway's game of life implemented in python
 
 ### TUTORIAL:
 Clone the repository with this command:\
-git clone https://github.com/James822/pylife.git\
+`git clone https://github.com/James822/pylife.git`\
 Then cd into it, then to run the program type this command:\
 `python3.8 main.py`
