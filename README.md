@@ -1,5 +1,5 @@
 # pylife
-conway's game of life implemented in python.
+Conway's Game of Life implemented in Python 3.
 In this version cells are randomly placed on the game board when you start the program, users are not able to place cells.
 
 ## DEPENDENCIES
