@@ -9,5 +9,5 @@ In this version cells are randomly placed on the game board when you start the p
 Clone the repository with this command:\
 `git clone https://github.com/James822/pylife.git`\
 Then cd into it, then to run the program type this command:\
-`python main.py.`, make sure it's python 3.\
+`python main.py` ----(make sure it's python 3.)\
 Now watch the fun begin! (press ctrl+c to stop the program)
